@@ -4,4 +4,4 @@ var scripts = {
     script1: script1
 }
 
-module.exports.scripts = scripts;
+return scripts;
